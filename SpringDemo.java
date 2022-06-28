@@ -9,6 +9,7 @@ public class SpringDemoJavaee14Application {
     public static void main(String[] args) {
         SpringApplication.run(SpringDemoJavaee14Application.class, args);
         System.out.println("Some changes");
+        System.out.println("Some changes again");
     }
 
 }
